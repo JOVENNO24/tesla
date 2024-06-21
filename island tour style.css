@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+   box-sizing: border-box;
+}
+   body
+{
+   background-color: rgba(0, 242, 255, 0.666);
+   background-size: 100%;
+   background-position: absolute;
+   font-family: sans-serif;}
